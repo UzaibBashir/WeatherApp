@@ -1,2 +1,2 @@
 link:
-https://weather-igc7m0czo-uzaib-bashir-maliks-projects.vercel.app/
+https://weather-app-gamma-three-61.vercel.app/
