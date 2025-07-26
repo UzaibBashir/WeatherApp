@@ -18,7 +18,7 @@ const Searchbar = () => {
     
   return (
     <div className=''>
-      <input className='text-white my-6 mx-50 p-8 border-1 border-blue-500 rounded-full' type="text" placeholder='Enter City'   onChange={result} />
+      <input className='text-white my-6 mx-18 p-8 border-1 border-blue-500 rounded-full' type="text" placeholder='Enter City'   onChange={result} />
         
     </div>
   )
