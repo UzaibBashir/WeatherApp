@@ -1,5 +1,5 @@
 import Cards from '../components/Cards'
-import Searchbar from '../components/searchbar'
+import Searchbar from '../components/Searchbar'
 import { useContext } from 'react'
 import { cityContext } from '../context'
 import { useState } from 'react'
