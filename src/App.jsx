@@ -1,9 +1,9 @@
 import './App.css'
 import Navbar from './sections/Navbar'
-import Body from './sections/body'
 import Footer from './sections/Footer'
 import { cityContext } from './context'
 import { useState } from 'react'
+import Body from './sections/Body'
 
 
 
