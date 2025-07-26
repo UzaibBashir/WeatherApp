@@ -13,7 +13,7 @@ function App() {
   
 
   return (
-    <> 
+     
     <div className="w-160 border-2 mx-auto my-2">
       <cityContext.Provider value={{city, setCity}}>
         <Navbar/>
@@ -21,9 +21,6 @@ function App() {
         <Footer/>
       </cityContext.Provider>
     </div>
-    
-      
-    </>
   )
 }
 
