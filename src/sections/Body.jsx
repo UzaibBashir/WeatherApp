@@ -30,7 +30,7 @@ const Body = () => {
   return (
     <div className='bg-[url(https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-a-tree-on-a-meadow-during-rainy-weather-image_15679740.jpg)]'>
       <Searchbar />
-      <button className='border-2' onClick={get}>fetch details</button>
+      <button className='border-3 border-blue-900 rounded-2xl bg-blue-950 text-white p-2 mx-76 mb-4 hover:border-blue-950 hover:bg-blue-800 w-30' onClick={get}>Enter</button>
 
       {weather && (
         <div className='text-white'>

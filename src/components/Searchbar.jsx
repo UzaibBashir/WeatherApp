@@ -17,8 +17,8 @@ const Searchbar = () => {
     }
     
   return (
-    <div className=''>
-      <input className='text-white my-6 mx-50 p-8 border-1 border-blue-500 rounded-full' type="text" placeholder='Enter City'   onChange={result} />
+    <div className='flex justify-center'>
+      <input className='text-white my-6  p-8 border-2 border-blue-900/60 rounded-full hover:border-blue-950' type="text" placeholder='Enter City'   onChange={result} />
         
     </div>
   )
